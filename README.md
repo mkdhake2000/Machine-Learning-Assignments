@@ -1,2 +1,2 @@
 # Machine-Learning-Assignments
-Course Assignments - Intro to Machine Learning (CS771A)
+Course Assignments - (CS771A) Introduction to Machine Learning
